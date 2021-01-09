@@ -1,0 +1,16 @@
+C:\Projects\orientacaoObj\14Interface\bin\Debug\net5.0\14Interface.exe
+C:\Projects\orientacaoObj\14Interface\bin\Debug\net5.0\14Interface.deps.json
+C:\Projects\orientacaoObj\14Interface\bin\Debug\net5.0\14Interface.runtimeconfig.json
+C:\Projects\orientacaoObj\14Interface\bin\Debug\net5.0\14Interface.runtimeconfig.dev.json
+C:\Projects\orientacaoObj\14Interface\bin\Debug\net5.0\14Interface.dll
+C:\Projects\orientacaoObj\14Interface\bin\Debug\net5.0\ref\14Interface.dll
+C:\Projects\orientacaoObj\14Interface\bin\Debug\net5.0\14Interface.pdb
+C:\Projects\orientacaoObj\14Interface\obj\Debug\net5.0\14Interface.csprojAssemblyReference.cache
+C:\Projects\orientacaoObj\14Interface\obj\Debug\net5.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\orientacaoObj\14Interface\obj\Debug\net5.0\14Interface.AssemblyInfoInputs.cache
+C:\Projects\orientacaoObj\14Interface\obj\Debug\net5.0\14Interface.AssemblyInfo.cs
+C:\Projects\orientacaoObj\14Interface\obj\Debug\net5.0\14Interface.csproj.CoreCompileInputs.cache
+C:\Projects\orientacaoObj\14Interface\obj\Debug\net5.0\14Interface.dll
+C:\Projects\orientacaoObj\14Interface\obj\Debug\net5.0\ref\14Interface.dll
+C:\Projects\orientacaoObj\14Interface\obj\Debug\net5.0\14Interface.pdb
+C:\Projects\orientacaoObj\14Interface\obj\Debug\net5.0\14Interface.genruntimeconfig.cache

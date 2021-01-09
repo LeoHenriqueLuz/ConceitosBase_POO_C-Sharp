@@ -1,0 +1,16 @@
+C:\Projects\orientacaoObj\10Herança\bin\Debug\net5.0\10Herança.exe
+C:\Projects\orientacaoObj\10Herança\bin\Debug\net5.0\10Herança.deps.json
+C:\Projects\orientacaoObj\10Herança\bin\Debug\net5.0\10Herança.runtimeconfig.json
+C:\Projects\orientacaoObj\10Herança\bin\Debug\net5.0\10Herança.runtimeconfig.dev.json
+C:\Projects\orientacaoObj\10Herança\bin\Debug\net5.0\10Herança.dll
+C:\Projects\orientacaoObj\10Herança\bin\Debug\net5.0\ref\10Herança.dll
+C:\Projects\orientacaoObj\10Herança\bin\Debug\net5.0\10Herança.pdb
+C:\Projects\orientacaoObj\10Herança\obj\Debug\net5.0\10Herança.csprojAssemblyReference.cache
+C:\Projects\orientacaoObj\10Herança\obj\Debug\net5.0\10Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\orientacaoObj\10Herança\obj\Debug\net5.0\10Herança.AssemblyInfoInputs.cache
+C:\Projects\orientacaoObj\10Herança\obj\Debug\net5.0\10Herança.AssemblyInfo.cs
+C:\Projects\orientacaoObj\10Herança\obj\Debug\net5.0\10Herança.csproj.CoreCompileInputs.cache
+C:\Projects\orientacaoObj\10Herança\obj\Debug\net5.0\10Herança.dll
+C:\Projects\orientacaoObj\10Herança\obj\Debug\net5.0\ref\10Herança.dll
+C:\Projects\orientacaoObj\10Herança\obj\Debug\net5.0\10Herança.pdb
+C:\Projects\orientacaoObj\10Herança\obj\Debug\net5.0\10Herança.genruntimeconfig.cache

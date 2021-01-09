@@ -1,0 +1,16 @@
+C:\Projects\orientacaoObj\05Acesso\bin\Debug\net5.0\05Acesso.exe
+C:\Projects\orientacaoObj\05Acesso\bin\Debug\net5.0\05Acesso.deps.json
+C:\Projects\orientacaoObj\05Acesso\bin\Debug\net5.0\05Acesso.runtimeconfig.json
+C:\Projects\orientacaoObj\05Acesso\bin\Debug\net5.0\05Acesso.runtimeconfig.dev.json
+C:\Projects\orientacaoObj\05Acesso\bin\Debug\net5.0\05Acesso.dll
+C:\Projects\orientacaoObj\05Acesso\bin\Debug\net5.0\ref\05Acesso.dll
+C:\Projects\orientacaoObj\05Acesso\bin\Debug\net5.0\05Acesso.pdb
+C:\Projects\orientacaoObj\05Acesso\obj\Debug\net5.0\05Acesso.csprojAssemblyReference.cache
+C:\Projects\orientacaoObj\05Acesso\obj\Debug\net5.0\05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\orientacaoObj\05Acesso\obj\Debug\net5.0\05Acesso.AssemblyInfoInputs.cache
+C:\Projects\orientacaoObj\05Acesso\obj\Debug\net5.0\05Acesso.AssemblyInfo.cs
+C:\Projects\orientacaoObj\05Acesso\obj\Debug\net5.0\05Acesso.csproj.CoreCompileInputs.cache
+C:\Projects\orientacaoObj\05Acesso\obj\Debug\net5.0\05Acesso.dll
+C:\Projects\orientacaoObj\05Acesso\obj\Debug\net5.0\ref\05Acesso.dll
+C:\Projects\orientacaoObj\05Acesso\obj\Debug\net5.0\05Acesso.pdb
+C:\Projects\orientacaoObj\05Acesso\obj\Debug\net5.0\05Acesso.genruntimeconfig.cache

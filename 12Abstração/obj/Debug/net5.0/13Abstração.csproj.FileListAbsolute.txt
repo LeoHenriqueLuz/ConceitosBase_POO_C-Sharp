@@ -1,0 +1,16 @@
+C:\Projects\orientacaoObj\13Abstração\obj\Debug\net5.0\13Abstração.csprojAssemblyReference.cache
+C:\Projects\orientacaoObj\13Abstração\obj\Debug\net5.0\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\orientacaoObj\13Abstração\obj\Debug\net5.0\13Abstração.AssemblyInfoInputs.cache
+C:\Projects\orientacaoObj\13Abstração\obj\Debug\net5.0\13Abstração.AssemblyInfo.cs
+C:\Projects\orientacaoObj\13Abstração\obj\Debug\net5.0\13Abstração.csproj.CoreCompileInputs.cache
+C:\Projects\orientacaoObj\13Abstração\bin\Debug\net5.0\13Abstração.exe
+C:\Projects\orientacaoObj\13Abstração\bin\Debug\net5.0\13Abstração.deps.json
+C:\Projects\orientacaoObj\13Abstração\bin\Debug\net5.0\13Abstração.runtimeconfig.json
+C:\Projects\orientacaoObj\13Abstração\bin\Debug\net5.0\13Abstração.runtimeconfig.dev.json
+C:\Projects\orientacaoObj\13Abstração\bin\Debug\net5.0\13Abstração.dll
+C:\Projects\orientacaoObj\13Abstração\bin\Debug\net5.0\ref\13Abstração.dll
+C:\Projects\orientacaoObj\13Abstração\bin\Debug\net5.0\13Abstração.pdb
+C:\Projects\orientacaoObj\13Abstração\obj\Debug\net5.0\13Abstração.dll
+C:\Projects\orientacaoObj\13Abstração\obj\Debug\net5.0\ref\13Abstração.dll
+C:\Projects\orientacaoObj\13Abstração\obj\Debug\net5.0\13Abstração.pdb
+C:\Projects\orientacaoObj\13Abstração\obj\Debug\net5.0\13Abstração.genruntimeconfig.cache

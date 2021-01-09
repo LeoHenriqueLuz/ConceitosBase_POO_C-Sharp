@@ -1,0 +1,16 @@
+C:\Projects\orientacaoObj\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.csprojAssemblyReference.cache
+C:\Projects\orientacaoObj\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\orientacaoObj\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\Projects\orientacaoObj\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.AssemblyInfo.cs
+C:\Projects\orientacaoObj\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Projects\orientacaoObj\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.exe
+C:\Projects\orientacaoObj\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.deps.json
+C:\Projects\orientacaoObj\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.runtimeconfig.json
+C:\Projects\orientacaoObj\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.runtimeconfig.dev.json
+C:\Projects\orientacaoObj\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.dll
+C:\Projects\orientacaoObj\06Encapsulamento\bin\Debug\net5.0\ref\06Encapsulamento.dll
+C:\Projects\orientacaoObj\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.pdb
+C:\Projects\orientacaoObj\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.dll
+C:\Projects\orientacaoObj\06Encapsulamento\obj\Debug\net5.0\ref\06Encapsulamento.dll
+C:\Projects\orientacaoObj\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.pdb
+C:\Projects\orientacaoObj\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.genruntimeconfig.cache

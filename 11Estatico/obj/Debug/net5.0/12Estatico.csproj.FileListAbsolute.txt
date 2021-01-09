@@ -1,0 +1,16 @@
+C:\Projects\orientacaoObj\12Estatico\bin\Debug\net5.0\12Estatico.exe
+C:\Projects\orientacaoObj\12Estatico\bin\Debug\net5.0\12Estatico.deps.json
+C:\Projects\orientacaoObj\12Estatico\bin\Debug\net5.0\12Estatico.runtimeconfig.json
+C:\Projects\orientacaoObj\12Estatico\bin\Debug\net5.0\12Estatico.runtimeconfig.dev.json
+C:\Projects\orientacaoObj\12Estatico\bin\Debug\net5.0\12Estatico.dll
+C:\Projects\orientacaoObj\12Estatico\bin\Debug\net5.0\ref\12Estatico.dll
+C:\Projects\orientacaoObj\12Estatico\bin\Debug\net5.0\12Estatico.pdb
+C:\Projects\orientacaoObj\12Estatico\obj\Debug\net5.0\12Estatico.csprojAssemblyReference.cache
+C:\Projects\orientacaoObj\12Estatico\obj\Debug\net5.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\orientacaoObj\12Estatico\obj\Debug\net5.0\12Estatico.AssemblyInfoInputs.cache
+C:\Projects\orientacaoObj\12Estatico\obj\Debug\net5.0\12Estatico.AssemblyInfo.cs
+C:\Projects\orientacaoObj\12Estatico\obj\Debug\net5.0\12Estatico.csproj.CoreCompileInputs.cache
+C:\Projects\orientacaoObj\12Estatico\obj\Debug\net5.0\12Estatico.dll
+C:\Projects\orientacaoObj\12Estatico\obj\Debug\net5.0\ref\12Estatico.dll
+C:\Projects\orientacaoObj\12Estatico\obj\Debug\net5.0\12Estatico.pdb
+C:\Projects\orientacaoObj\12Estatico\obj\Debug\net5.0\12Estatico.genruntimeconfig.cache
